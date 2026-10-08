@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive icon foreground: a glass and a bottle standing on a small wooden shelf.
+     All artwork stays inside the 66dp safe zone (21..87). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glass: tapered tumbler with water -->
+    <path
+        android:fillColor="#FFE4EEF7"
+        android:pathData="M29,40 L49,40 L46.5,70 L31.5,70 Z" />
+    <path
+        android:fillColor="#FF7FA6CC"
+        android:pathData="M30.2,48 L47.8,48 L46.5,70 L31.5,70 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF4F6F92"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:pathData="M29,40 L49,40 L46.5,70 L31.5,70 Z" />
+
+    <!-- Bottle: cap, neck, shoulders, body -->
+    <path
+        android:fillColor="#FF2F5E62"
+        android:pathData="M63,27 L71,27 L71,32 L63,32 Z" />
+    <path
+        android:fillColor="#FF6DB3AA"
+        android:pathData="M64,32 L70,32 L70,37 C70,39 77,40 77,45 L77,67 C77,69 75.5,70 74,70 L60,70 C58.5,70 57,69 57,67 L57,45 C57,40 64,39 64,37 Z" />
+    <path
+        android:fillColor="#FFA9D4CE"
+        android:pathData="M60,48 L62.5,48 L62.5,64 L60,64 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF2F5E62"
+        android:strokeWidth="1.6"
+        android:strokeLineJoin="round"
+        android:pathData="M64,32 L70,32 L70,37 C70,39 77,40 77,45 L77,67 C77,69 75.5,70 74,70 L60,70 C58.5,70 57,69 57,67 L57,45 C57,40 64,39 64,37 Z" />
+
+    <!-- Shelf plank with a soft shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M25,76 L83,76 L81,79 L27,79 Z" />
+    <path
+        android:fillColor="#FFCFAE7C"
+        android:pathData="M23,70 L85,70 L85,76 L23,76 Z" />
+    <path
+        android:fillColor="#FFAD8A57"
+        android:pathData="M23,74.5 L85,74.5 L85,76 L23,76 Z" />
+</vector>
